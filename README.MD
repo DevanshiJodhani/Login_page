@@ -7,6 +7,6 @@
 - 👁️ There is also a feature to show or hide the password.
 
 ## Installation Steps
-- 💻 $ git clone the repository git@github.com:DevanshiJodhani/Login_page.git
+- 💻 $ git clone git@github.com:DevanshiJodhani/Login_page.git
 - 📂 $ cd Login_page
 - 🔍 Open index.html file in the browser.
